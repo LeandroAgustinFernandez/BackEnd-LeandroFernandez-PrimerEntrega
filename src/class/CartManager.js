@@ -42,7 +42,7 @@ export default class CartManager {
       let carts = [];
       if (fs.existsSync(this.path)) carts = await this.#getCarts();
       if (!carts.find((cart) => cart.id === cid))
-        throw new Error(`There cart does not exist.`);
+        throw new Error(`The cart does not exist.`);
       carts.forEach((cart) => {
         if (cart.id === cid) {
           let isInCart = cart.products.find((item) => item.product === pid);

@@ -6,7 +6,7 @@ const cartManager = new CartManager("./carts.json");
 
 router.post("/", async (request, response) => {
   let res = await cartManager.addCart();
-  response.send({ res });
+  response.send({ ...res });
 });
 
 router.get("/:cid", async (request, response) => {
@@ -14,7 +14,7 @@ router.get("/:cid", async (request, response) => {
   let res = await cartManager.getCart(parseInt(cid));
   res?.error
     ? response.status(404).send({ ...res })
-    : response.send({ message: res });
+    : response.send({ cart: res });
 });
 
 router.post("/:cid/product/:pid", async (request, response) => {
@@ -22,7 +22,7 @@ router.post("/:cid/product/:pid", async (request, response) => {
   let res = await cartManager.addProductToCart(parseInt(cid), parseInt(pid));
   res?.error
     ? response.status(400).send({ ...res })
-    : response.send({ message: res });
+    : response.send({ ...res });
 });
 
 export default router;

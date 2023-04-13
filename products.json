@@ -1,155 +1,122 @@
 [
   {
     "id": 1,
+    "status": true,
     "title": "Remera Clasica Est Hombre",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
     "price": 7299,
     "thumbnails": "Sin imagen",
     "code": "CRH01",
-    "stock": 25
+    "stock": 25,
+    "category": "remeras"
   },
   {
     "id": 2,
+    "status": true,
     "title": "Remera Clasica Estampada Hombre",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
     "price": 7399,
     "thumbnails": "Sin imagen",
     "code": "CRH02",
-    "stock": 25
-  },
-  {
-    "id": 4,
-    "title": "Remera Clasica Est Hombre",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 7299,
-    "thumbnails": "Sin imagen",
-    "code": "CRH04",
-    "stock": 25
-  },
-  {
-    "id": 5,
-    "title": "Remera SF c/texto Hombre",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 7599,
-    "thumbnails": "Sin imagen",
-    "code": "CRH05",
-    "stock": 25
-  },
-  {
-    "id": 6,
-    "title": "Remera Clasica Est Grande Hombre",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 7299,
-    "thumbnails": "Sin imagen",
-    "code": "CRH06",
-    "stock": 25
-  },
-  {
-    "id": 7,
-    "title": "Remera Flame Estampada",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 7199,
-    "thumbnails": "Sin imagen",
-    "code": "CRH07",
-    "stock": 25
-  },
-  {
-    "id": 8,
-    "title": "Remera Est Frent / Esp ",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 6599,
-    "thumbnails": "Sin imagen",
-    "code": "CRH08",
-    "stock": 25
-  },
-  {
-    "id": 9,
-    "title": "Campera Liviana ",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 10999,
-    "thumbnails": "Sin imagen",
-    "code": "CRH09",
-    "stock": 25
-  },
-  {
-    "id": 10,
-    "title": "Remera Lisa Con Puño",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 5399,
-    "thumbnails": "Sin imagen",
-    "code": "CRH10",
-    "stock": 25
-  },
-  {
-    "id": 11,
-    "title": "Remera Clasica Est Hombre",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 7199,
-    "thumbnails": "Sin imagen",
-    "code": "CRH11",
-    "stock": 25
-  },
-  {
-    "id": 12,
-    "title": "Remera Clasica Est Hombre",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 7199,
-    "thumbnails": "Sin imagen",
-    "code": "CRH16",
-    "stock": 25
-  },
-  {
-    "title": "Remera Clasica Est Hombre",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 7299,
-    "thumbnails": [],
-    "code": "CRH13",
     "stock": 25,
-    "category": "remeras",
-    "id": 13,
-    "status": true
+    "category": "remeras"
   },
   {
-    "id": 14,
+    "id": 3,
     "status": true,
     "title": "Remera Clasica Est Hombre 2da",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
     "price": 5000,
     "thumbnails": [],
-    "code": "CRH17",
+    "code": "CRH03",
     "stock": 25,
     "category": "remeras"
   },
   {
-    "id": 15,
+    "id": 4,
+    "status": true,
+    "title": "Remera Clasica Est Hombre",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
+    "price": 7299,
+    "thumbnails": "Sin imagen",
+    "code": "CRH04",
+    "stock": 25,
+    "category": "remeras"
+  },
+  {
+    "id": 5,
+    "status": true,
+    "title": "Remera SF c/texto Hombre",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
+    "price": 7599,
+    "thumbnails": "Sin imagen",
+    "code": "CRH05",
+    "stock": 25,
+    "category": "remeras"
+  },
+  {
+    "id": 6,
+    "status": true,
+    "title": "Remera Clasica Est Grande Hombre",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
+    "price": 7299,
+    "thumbnails": "Sin imagen",
+    "code": "CRH06",
+    "stock": 25,
+    "category": "remeras"
+  },
+  {
+    "id": 7,
+    "status": true,
+    "title": "Remera Flame Estampada",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
+    "price": 7199,
+    "thumbnails": "Sin imagen",
+    "code": "CRH07",
+    "stock": 25,
+    "category": "remeras"
+  },
+  {
+    "id": 8,
+    "status": true,
+    "title": "Remera Est Frent / Esp ",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
+    "price": 6599,
+    "thumbnails": "Sin imagen",
+    "code": "CRH08",
+    "stock": 25,
+    "category": "remeras"
+  },
+  {
+    "id": 9,
+    "status": true,
+    "title": "Campera Liviana ",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
+    "price": 10999,
+    "thumbnails": "Sin imagen",
+    "code": "CRH09",
+    "stock": 25,
+    "category": "remeras"
+  },
+  {
+    "id": 10,
+    "status": true,
+    "title": "Remera Lisa Con Puño",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
+    "price": 5399,
+    "thumbnails": "Sin imagen",
+    "code": "CRH10",
+    "stock": 25,
+    "category": "remeras"
+  },
+  {
+    "id": 12,
     "status": true,
     "title": "Remera Clasica Est Hombre 3ra",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
     "price": 5000,
     "thumbnails": [],
-    "code": "CRH18",
-    "stock": 25,
-    "category": "remeras"
-  },
-  {
-    "id": 16,
-    "status": true,
-    "title": "Remera Clasica Est Hombre 3ra",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 5000,
-    "thumbnails": [],
-    "code": "CRH20",
-    "stock": 25,
-    "category": "remeras"
-  },
-  {
-    "id": 17,
-    "status": true,
-    "title": "Remera Clasica Est Hombre 3ra",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde vel nulla culpa voluptatem quasi provident qui laborum omnis molestias fuga voluptatibus error cupiditate, et architecto nemo quod rerum dolorum nihil.",
-    "price": 5000,
-    "thumbnails": [],
-    "code": "CRH21",
+    "code": "CRH22",
     "stock": 25,
     "category": "remeras"
   }
